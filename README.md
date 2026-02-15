@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋 I'm Sarthak Singh
 
-<!--
-**Sarthak-Singh2005/Sarthak-Singh2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | 💻 Full Stack Developer | 🚀 Tech Enthusiast  
 
-Here are some ideas to get you started:
+I’m passionate about building real-world web applications and continuously improving my development skills.  
+I enjoy solving problems and creating scalable backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### 🌐 Frontend
+- HTML5
+- CSS3
+- JavaScript 
+
+### 🖥️ Backend
+- Node.js
+- Express.js
+
+### 🗄️ Database
+- PostgreSQL
+- SQL
+
+### 🔗 Other Skills
+- REST APIs
+- Git & GitHub
+- Basic Deployment
+
+---
+
+## 🔭 I’m currently working on
+- Full-stack web projects
+- Improving Data Structures & Algorithms
+- Strengthening backend architecture skills
+
+## 🌱 Currently Learning
+- React
+- Data Structure and Analysis 
+
+## 👯 I’m looking to collaborate on
+- Web Development Projects
+- Open Source Contributions
+
+## 📫 How to reach me
+- 📧 Email: sarthakkr.singh.06@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/sarthak-singh-368429318
+
+⭐️ Thanks for visiting my profile!
